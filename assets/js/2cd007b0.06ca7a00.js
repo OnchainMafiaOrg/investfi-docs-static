@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmememafia=self.webpackChunkmememafia||[]).push([[856],{7440:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/investfi-docs-static/blog/tags/hola","allTagsPath":"/investfi-docs-static/blog/tags","count":1,"unlisted":false}')}}]);
