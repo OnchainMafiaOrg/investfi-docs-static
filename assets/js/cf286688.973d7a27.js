@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmememafia=self.webpackChunkmememafia||[]).push([[48],{5320:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/investfi-docs-static/blog/tags/facebook","allTagsPath":"/investfi-docs-static/blog/tags","count":1,"unlisted":false}')}}]);
